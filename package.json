@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Enaibs99/Note-Taking-API/issues"
   },
-  "homepage": "https://github.com/Enaibs99/Note-Taking-API#readme"
+  "homepage": "https://github.com/Enaibs99/Note-Taking-API#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
